@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BigFileManagement
 {
-    public partial class Form3 : Form
+    public partial class LoginForm : Form
     {
-        public Form3()
+        public LoginForm()
         {
             InitializeComponent();
         }
